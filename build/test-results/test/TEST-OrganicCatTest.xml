@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="OrganicCatTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2020-06-13T03:13:01" hostname="DESKTOP-LVBAOCR" time="0.007">
+  <properties/>
+  <testcase name="t1shouldReturnPetName" classname="OrganicCatTest" time="0.002"/>
+  <testcase name="t6shouldReturnThirst" classname="OrganicCatTest" time="0.0"/>
+  <testcase name="t3shouldReturnHappiness" classname="OrganicCatTest" time="0.0"/>
+  <testcase name="t5shouldReturnHunger" classname="OrganicCatTest" time="0.0"/>
+  <testcase name="t8shouldReturnLitterBox" classname="OrganicCatTest" time="0.0"/>
+  <testcase name="t7shouldReturnBored" classname="OrganicCatTest" time="0.0"/>
+  <testcase name="t2shouldReturnPetDescription" classname="OrganicCatTest" time="0.0"/>
+  <testcase name="t9shouldBeAbleToIncreasePetsHealth" classname="OrganicCatTest" time="0.004"/>
+  <testcase name="t4shouldReturnHealth" classname="OrganicCatTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

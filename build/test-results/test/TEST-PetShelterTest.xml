@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PetShelterTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2020-06-13T03:13:01" hostname="DESKTOP-LVBAOCR" time="0.06">
+  <properties/>
+  <testcase name="t1shouldBeAbleToAddPet" classname="PetShelterTest" time="0.038"/>
+  <testcase name="t5shouldBeAbleToWaterPets" classname="PetShelterTest" time="0.002"/>
+  <testcase name="t8shouldBeAbleToCleanDogsCages" classname="PetShelterTest" time="0.0"/>
+  <testcase name="t10shouldBeAbleToWalkOrgDogs" classname="PetShelterTest" time="0.0"/>
+  <testcase name="t11shouldBeAbleToWalkRoboDogs" classname="PetShelterTest" time="0.0"/>
+  <testcase name="t9shouldBeAbleToCleanLitterBox" classname="PetShelterTest" time="0.0"/>
+  <testcase name="t3shouldBeAbleToRemoveAPet" classname="PetShelterTest" time="0.003"/>
+  <testcase name="t6shouldBeAbleToPlayWithAPet" classname="PetShelterTest" time="0.0"/>
+  <testcase name="t7shouldBeAbleToOilRoboPets" classname="PetShelterTest" time="0.001"/>
+  <testcase name="t4shouldBeAbleToFeedPets" classname="PetShelterTest" time="0.0"/>
+  <testcase name="t2shouldBeAbleToAddTwoPets" classname="PetShelterTest" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
